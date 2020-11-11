@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Hary110201/Li-Fi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+## Li-Fi (Light-Fidelity)
+![Image](gambar1)
+ Light Fidelity merupakan teknologi komunikasi nirkabel dua arah yang berkecepatan tinggi dan mirip dengan teknologi Wi-Fi.
+ Li-Fi memanfaatkan lampu LED untuk mentransfer data pada spektrum cahaya tampak. Sementara Wi-Fi atau _Wireless Fidelity_ , menggunakan gelombang elektromagnetik pada frekuensi radio untuk mengirimkan data melalui router Wi-Fi. Perbedaan antara keduanya beragam, yang paling jelas adalah Wi-Fi menggunakan gelombang radio, sedangkan Li-Fi memanfaatkan cahaya.
+### 
 
 # Header 1
 ## Header 2
@@ -24,14 +17,3 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hary110201/Li-Fi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
