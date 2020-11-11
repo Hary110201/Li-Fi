@@ -14,12 +14,15 @@ Kecepatan Li-Fi dapat mencapai 224 gigabit per detik, dan beberapa uji coba menc
 Keuntungan lain dari Li-Fi adalah lebih aman karena data tidak dapat dicegat tanpa garis pandang yang jelas (kondisi LOS, line of sight). Juga tidak membuat interferensi pada elektronik sensitif, membuatnya lebih baik untuk digunakan di lingkungan seperti rumah sakit dan pesawat terbang.
 
 ## Standart Li-Fi
+![Image](standart.jpeg)
 
 Li-Fi adalah teknologi nirkabel dan menggunakan protokol 802.11 yang serupa, tetapi Li-Fi menggunakan ultraviolet, inframerah dan komunikasi cahaya tampak (bukan gelombang frekuensi radio), yang memiliki bandwidth jauh lebih besar. Satu bagian dari VLC dimodelkan setelah protokol komunikasi yang dibuat oleh kelompok kerja IEEE 802. Namun, standar IEEE 802.15.7 sudah ketinggalan zaman: ia gagal untuk mempertimbangkan perkembangan teknologi terbaru dalam bidang komunikasi nirkabel optik, khususnya dengan pengenalan metode modulasi _optical orthogonal frequency-division multiplexing_ (O-OFDM) yang telah dioptimalkan untuk kecepatan data, akses ganda dan efisiensi energi. Pengenalan O-OFDM berarti bahwa drive baru untuk standardisasi komunikasi nirkabel optik diperlukan.
 
 Rekomendasi G.9991 (“Transceiver komunikasi cahaya tampak berkecepatan tinggi dalam ruangan – Arsitektur sistem, spesifikasi lapisan fisik dan lapisan data” / _“High-speed indoor visible light communication transceiver – System architecture, physical layer and data link layer specification”)_ baru-baru ini diterbitkan oleh ITU-T. Ini adalah langkah besar dalam adopsi luas teknologi LiFi dalam berbagai aplikasi dari jaringan rumah / perusahaan ke IoT. Rekomendasi baru ini menggambarkan sistem komunikasi kecepatan tinggi dengan latensi rendah yang dirancang khusus untuk mengatasi tantangan LiFi.
 
 ## Penyebab Tingginya Kecepatan Li-Fi
+![Image](penyebab.jpeg)
+
 Anda tentunya penasaran mengapa Li-Fi bisa sangat cepat. Alasannya adalah karena LED yang merupakan semikonduktor memiliki sifat berbeda dari jenis lampu lainnya. LED mampu untuk berganti nyala dan mati hanya dalam waktu beberapa nanodetik atau miliar detik. Bila dikonversikan dalam kecepatan data, nanodetik itu setara dengan 1 Gbits/s yang artinya lebih cepat 10 kali lipat dari Wi-Fi yang hanya bisa mencapai kecepatan data 100 Mbits/s.
 
 ## Kelebihan & Kekurangan Li-Fi
